@@ -1,0 +1,15 @@
+label{
+    color: black;
+    font-family: Purisa;
+}
+form{
+    padding: 15px;
+    text-align: center;
+    border: 2px  solid black;
+    background-color: palevioletred;
+    margin: 15px;
+}
+h2{
+    text-align: center;
+    color: indigo;
+}

@@ -1,0 +1,21 @@
+.fruits{
+    border: 2px  solid darkblue;
+    text-align: center;
+    padding: 15px;
+    background-color: deeppink;
+    margin: 15px;
+}
+.cars{
+    border: 2px solid yellowgreen;
+    text-align: center;
+    padding: 15px;
+    background-color: rebeccapurple;
+    margin: 15px;
+}
+.FRUITS{
+    border: 2px solid purple;
+    text-align: center;
+    padding: 15px;
+    background-color: darkblue;
+    margin: 15px;
+}

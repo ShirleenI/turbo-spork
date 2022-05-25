@@ -1,0 +1,21 @@
+#Animals{
+    background-color: yellowgreen;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid blue;
+    text-align: center;
+}
+#Vegetables{
+    background-color: fuchsia;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid black;
+    text-align: center;
+}
+#Games{
+    background-color: darkgrey;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid springgreen;
+    text-align: center;
+}
